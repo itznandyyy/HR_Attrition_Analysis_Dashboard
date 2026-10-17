@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard
 
-An interactive Tableau dashboard analysing employee attrition for a 1,470-employee HR dataset.
+An interactive Tableau dashboard that shows who leaves a company and why, built from an HR dataset of 1,470 employees.
 
 ![Dashboard](dashboard.png)
 
