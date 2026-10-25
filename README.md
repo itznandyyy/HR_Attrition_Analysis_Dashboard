@@ -4,8 +4,6 @@ An interactive Tableau dashboard that shows who leaves a company and why, built 
 
 ![Dashboard](dashboard.png)
 
-**Live dashboard:** [View on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
-
 ## Key Metrics
 
 | Metric | Value |
